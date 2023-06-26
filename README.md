@@ -11,3 +11,4 @@ Data Analysis in MySQL: Using SQL queries, various analysis tasks are performed 
 Exporting Query Results: The query results obtained from the MySQL database are exported as CSV files. This allows for further utilization of the data in subsequent steps, such as visualization in Power BI.
 
 Creating a Power BI Dashboard: The exported CSV files are imported into Power BI to create a simple and intuitive dashboard. The dashboard incorporates visualizations, charts, and graphs to present the analyzed data in an easily understandable format.
+Enjoy exploring the world of data cleaning and analysis with MySQL Workbench and Power BI!
